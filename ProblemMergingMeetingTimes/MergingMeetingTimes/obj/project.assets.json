@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/TriveStorage/interview_prep/MergingMeetingTimes/MergingMeetingTimes.csproj",
+      "projectUniqueName": "/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/MergingMeetingTimes.csproj",
       "projectName": "MergingMeetingTimes",
-      "projectPath": "/Volumes/TriveStorage/interview_prep/MergingMeetingTimes/MergingMeetingTimes.csproj",
+      "projectPath": "/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/MergingMeetingTimes.csproj",
       "packagesPath": "/Users/jo/.nuget/packages/",
-      "outputPath": "/Volumes/TriveStorage/interview_prep/MergingMeetingTimes/obj/",
+      "outputPath": "/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

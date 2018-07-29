@@ -1,0 +1,11 @@
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/bin/Debug/netcoreapp2.1/MergingMeetingTimes.deps.json
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/bin/Debug/netcoreapp2.1/MergingMeetingTimes.runtimeconfig.json
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/bin/Debug/netcoreapp2.1/MergingMeetingTimes.runtimeconfig.dev.json
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/bin/Debug/netcoreapp2.1/MergingMeetingTimes.dll
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/bin/Debug/netcoreapp2.1/MergingMeetingTimes.pdb
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/obj/Debug/netcoreapp2.1/MergingMeetingTimes.csprojAssemblyReference.cache
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/obj/Debug/netcoreapp2.1/MergingMeetingTimes.csproj.CoreCompileInputs.cache
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/obj/Debug/netcoreapp2.1/MergingMeetingTimes.AssemblyInfoInputs.cache
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/obj/Debug/netcoreapp2.1/MergingMeetingTimes.AssemblyInfo.cs
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/obj/Debug/netcoreapp2.1/MergingMeetingTimes.dll
+/Volumes/TriveStorage/interview_prep/ProblemMergingMeetingTimes/MergingMeetingTimes/obj/Debug/netcoreapp2.1/MergingMeetingTimes.pdb
