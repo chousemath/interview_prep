@@ -29,6 +29,7 @@ namespace MergingMeetingTimes
             for (int i = 0; i < meetings.Length; i++)
             {
                 Console.WriteLine($"startTime: {meetings[i].startTime}, endTime: {meetings[i].endTime}");
+
             }
         }
     }

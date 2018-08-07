@@ -1,0 +1,11 @@
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/bin/Debug/netcoreapp2.1/TwoSumCs.deps.json
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/bin/Debug/netcoreapp2.1/TwoSumCs.runtimeconfig.json
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/bin/Debug/netcoreapp2.1/TwoSumCs.runtimeconfig.dev.json
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/bin/Debug/netcoreapp2.1/TwoSumCs.dll
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/bin/Debug/netcoreapp2.1/TwoSumCs.pdb
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/obj/Debug/netcoreapp2.1/TwoSumCs.csprojAssemblyReference.cache
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/obj/Debug/netcoreapp2.1/TwoSumCs.csproj.CoreCompileInputs.cache
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/obj/Debug/netcoreapp2.1/TwoSumCs.AssemblyInfoInputs.cache
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/obj/Debug/netcoreapp2.1/TwoSumCs.AssemblyInfo.cs
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/obj/Debug/netcoreapp2.1/TwoSumCs.dll
+/Volumes/TriveStorage/interview_prep/javascript/TwoSumCs/obj/Debug/netcoreapp2.1/TwoSumCs.pdb
