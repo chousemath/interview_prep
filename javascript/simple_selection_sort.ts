@@ -15,4 +15,19 @@ const selectionSort = (numArray: Array<number>): Array<number> => {
   return sortedArray;
 };
 
-console.log(selectionSort([4, 3, 2, 1]));
+const selectionSort2 = (numArray: Array<number>): Array<number> => {
+  let min: number;
+  for (let i = 0; i < numArray.length - 1; i++) {
+    min = numArray[i];
+    for (let j = i + 1; j < numArray.length; j++) {
+      if (numArray[j] < min) {
+        min = numArray[j];
+        numArray[j] = numArray[i];
+        numArray[i] = min;
+      }
+    }
+  }
+  return numArray;
+};
+
+console.log(selectionSort2([4, 3, 2, 1]));

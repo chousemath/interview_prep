@@ -14,4 +14,18 @@ var selectionSort = function (numArray) {
     }
     return sortedArray;
 };
-console.log(selectionSort([4, 3, 2, 1]));
+var selectionSort2 = function (numArray) {
+    var min;
+    for (var i = 0; i < numArray.length - 1; i++) {
+        min = numArray[i];
+        for (var j = i + 1; j < numArray.length; j++) {
+            if (numArray[j] < min) {
+                min = numArray[j];
+                numArray[j] = numArray[i];
+                numArray[i] = min;
+            }
+        }
+    }
+    return numArray;
+};
+console.log(selectionSort2([4, 3, 2, 1]));
